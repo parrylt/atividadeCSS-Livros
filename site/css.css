@@ -1,0 +1,72 @@
+body{
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
+    text-align: center;
+}
+main{
+    background-color: maroon;
+    width: 70%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+aside{
+    background-image: url("../site/Imagens/img02.jpg");
+    size: cover;
+    width: 30%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+h1{
+    color: whitesmoke;
+    font-style: italic;
+    text-transform: uppercase;
+    border: 2px dotted mistyrose;
+}
+h3 {
+    color: whitesmoke;
+}
+main h3{
+    background-image: url("../site/Imagens/img03.jpg");
+}
+aside h3{
+    color: maroon;
+    background-image: url("../site/Imagens/img01.png");
+}
+ul{
+    color: lightgray;
+    font-size: 10pt;
+    font-weight: bold;
+    line-height: 32px;
+    list-style-image: url("../site/Imagens/check.png");
+    text-align: left;
+}
+span{
+    text-decoration:underline;
+    color: gold;
+}
+table{
+    margin:auto;
+}
+td{
+    border: 3px dashed indianred;
+}
+h1:hover{
+    background-color: crimson;
+    color: lightpink;
+    border-color: lightpink;
+}
+h3:hover{
+    color: indianred;
+}
+span:hover{
+    background-color: crimson;
+    color: lightpink;
+    border-color: lightpink;
+}
+img:hover{
+    transform: rotate(-5deg);
+    border: 5px double gold;
+}
