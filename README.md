@@ -1,2 +1,2 @@
 # atividadeCSS-Livros
-primeira atividade de css feita em aula com um site sobre livros
+primeira atividade de css feita em aula com um site sobre livros com o prof Rodrigo.
